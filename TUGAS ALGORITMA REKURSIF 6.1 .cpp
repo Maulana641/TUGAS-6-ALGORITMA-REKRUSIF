@@ -4,7 +4,7 @@ using namespace std;
 
 long int faktorial( long int a);
 
-main(){
+int main(){
  long int faktor;
  long int n;
    cout<<"Masukan Nilai Faktorial = ";
